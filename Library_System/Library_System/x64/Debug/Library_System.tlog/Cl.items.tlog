@@ -1,0 +1,16 @@
+C:\Users\vango\source\repos\Library_System\Library_System\Adminmenu.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\Adminmenu.obj
+C:\Users\vango\source\repos\Library_System\Library_System\createAdmin.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\createAdmin.obj
+C:\Users\vango\source\repos\Library_System\Library_System\delBook.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\delBook.obj
+C:\Users\vango\source\repos\Library_System\Library_System\findBook.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\findBook.obj
+C:\Users\vango\source\repos\Library_System\Library_System\inputBook.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\inputBook.obj
+C:\Users\vango\source\repos\Library_System\Library_System\loadAdmin.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\loadAdmin.obj
+C:\Users\vango\source\repos\Library_System\Library_System\loadBook.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\loadBook.obj
+C:\Users\vango\source\repos\Library_System\Library_System\login.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\login.obj
+C:\Users\vango\source\repos\Library_System\Library_System\main.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\main.obj
+C:\Users\vango\source\repos\Library_System\Library_System\Mainmenu.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\Mainmenu.obj
+C:\Users\vango\source\repos\Library_System\Library_System\modifyBook.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\modifyBook.obj
+C:\Users\vango\source\repos\Library_System\Library_System\modifyRemainder.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\modifyRemainder.obj
+C:\Users\vango\source\repos\Library_System\Library_System\printBook.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\printBook.obj
+C:\Users\vango\source\repos\Library_System\Library_System\saveBook.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\saveBook.obj
+C:\Users\vango\source\repos\Library_System\Library_System\sortBook.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\sortBook.obj
+C:\Users\vango\source\repos\Library_System\Library_System\Usermenu.c;C:\Users\vango\source\repos\Library_System\Library_System\x64\Debug\Usermenu.obj
